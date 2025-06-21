@@ -1,5 +1,5 @@
 ignore:
   secrets:
     SECRET-SYSTEM-14:
-      /*.properties:
+      DylanWiz/odluser1771449-repo/**/*.properties:
         reason: FALSE_POSITIVE
