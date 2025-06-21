@@ -1,5 +1,5 @@
 ignore:
   secrets:
     SECRET-SYSTEM-14:
-      /odluser1771449-repo/**/*.properties:
+      **/*.properties:
         reason: FALSE_POSITIVE
